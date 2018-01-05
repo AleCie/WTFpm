@@ -1,7 +1,8 @@
 # WTFpm
 
-Tool for measuring code quality.
 ![alt text](https://i.imgur.com/AE0icYw.png)
+
+Tool for measuring code quality.
 
 ## What is it?
 
